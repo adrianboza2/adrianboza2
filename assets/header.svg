@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t">
+  <title id="t">Adrián Boza Suárez — Cloud &amp; DevSecOps student, Madrid</title>
+  <style>
+    :root { --bg:#f6f4ef; --ink:#1b1b1a; --mute:#6b6862; --rule:#d9d5cc; --acc:#c2410c; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg:#0d1117; --ink:#ecebe7; --mute:#9a978f; --rule:#30363d; --acc:#f0883e; }
+    }
+    .bg{fill:var(--bg)} .ink{fill:var(--ink)} .mute{fill:var(--mute)} .acc{fill:var(--acc)}
+    .rule{stroke:var(--rule);stroke-width:1}
+    .serif{font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.14em}
+  </style>
+  <rect class="bg" width="1200" height="260"/>
+  <line class="rule" x1="48" y1="56" x2="1152" y2="56"/>
+  <line class="rule" x1="48" y1="212" x2="1152" y2="212"/>
+  <text x="48" y="40" class="mono mute" font-size="13">STUDENT · CLOUD &amp; DEVSECOPS</text>
+  <text x="1152" y="40" class="mono mute" font-size="13" text-anchor="end">MADRID · 2026—27</text>
+  <text x="44" y="166" class="serif ink" font-size="88" letter-spacing="-1.5">Adrián Boza Suárez<tspan class="acc">.</tspan></text>
+  <text x="48" y="238" class="mono mute" font-size="13">AZURE · AWS · KUBERNETES · LINUX · NETWORKING</text>
+</svg>
