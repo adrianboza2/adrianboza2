@@ -1,6 +1,6 @@
 <img src="assets/header.svg" alt="Adrián Boza Suárez — Cloud &amp; DevSecOps student, Madrid" width="100%">
 
-[LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-boza-su%C3%A1rez-51623a184/) · [Español](README.es.md)
+[LinkedIn](https://www.linkedin.com/in/adrian-boza-suarez/) · [Español](README.es.md)
 
 I'm studying a Master's in Cloud Security & DevSecOps at Tajamar Tech and the AWS Security course at CTIC, after finishing a degree in Network & Systems Administration (ASIR). I learn by building things end to end and documenting how they work. These are the ones worth a look.
 

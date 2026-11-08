@@ -1,6 +1,6 @@
 <img src="assets/header.svg" alt="Adrián Boza Suárez — estudiante de Cloud y DevSecOps, Madrid" width="100%">
 
-[LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-boza-su%C3%A1rez-51623a184/) · [English](README.md)
+[LinkedIn](https://www.linkedin.com/in/adrian-boza-suarez/) · [English](README.md)
 
 Estudio el Máster en Ciberseguridad Cloud y DevSecOps de Tajamar Tech y el curso de AWS Security del CTIC, después de terminar el ciclo de Administración de Sistemas en Red (ASIR). Aprendo montando cosas de principio a fin y documentando cómo funcionan. Estas son las que merece la pena ver.
 
